@@ -41,11 +41,7 @@ Then we speaks about the internship process:
 ## Internship process 
 
 Technocolabs is a multinational company that takes data from number of diffrent sources, and apply data analysis and machine learning models to 
-the data of the customers, then they apply these findings into their web and mobile app business. The interns will be monitored by the company's <br>
-project manager and mentor. There will be weekly meeting of which we discuss the data and the requirements. The meeting will last for an hour, and it's <br>
-conducted in the weekend. If you missed the meeting, there will be confusion of term of what the requirements are. There will be (10) interns whom they will <br>
-work in groups, and there is weekly submission. Once you got shortlisted, you have to pay 30.00 USD registration fees. The result if whither you got shortlisted <br>
-will be sent to your email in about half and hour, so check you spam folder, and make sure to confirm the payment in the next 3 hours.
+the data of the customers, then they apply these findings into their web and mobile app business. The interns will be monitored by the company's project manager and mentor. There will be weekly meeting of which we discuss the data and the requirements. The meeting will last for an hour, and it's conducted in the weekend. If you missed the meeting, there will be confusion of term of what the requirements are. There will be (10) interns whom they will  work in groups, and there is weekly submission. Once you got shortlisted, you have to pay 30.00 USD registration fees. The result if whither you got shortlisted will be sent to your email in about half and hour, so check you spam folder, and make sure to confirm the payment in the next 3 hours.
 
 
 ## Learning material
