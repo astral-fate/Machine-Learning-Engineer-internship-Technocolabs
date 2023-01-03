@@ -16,11 +16,11 @@
 
 
 
-## Application
+# Application
 
 I have applied for the machine learning engineer intern at Technocolabs, thanks to the creators of this repository, which lists all available internships remotely and in-site. 
 
-# Interview process 
+## Interview process 
 
 
 
