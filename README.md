@@ -46,7 +46,22 @@ the data of the customers, then they apply these findings into their web and mob
 There will be data scraping from different sources, using ADE which stands for Automated Data Extraction. It is a process or technique that involves using software or other automated means to extract data from a variety of sources, such as websites, documents, or databases. Automated data extraction can be used to quickly and accurately gather large amounts of data, which can then be used for a variety of purposes, such as data analysis, data visualization, or machine learning.
 
 
+### Data processing 
+Data cleaning, data mantaining
+
 ### Descriptive analysis 
+Create categorcal and labels, encoding data.
+
+### Data modeling
+Based on the problem statment, we choose the data modeling:
+1. Reggrition
+2. Classification 
+3. Clusturing
+Based on the highest accuracy, we will stick with the data modeling 
+
+### Deploy the data
+
+After that we will deploy the data in the cloud, either in IBM watson cloud, Herouko, or Robust
 
 ## Learning material
 
