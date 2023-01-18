@@ -69,7 +69,7 @@ After that we will deploy the data in the cloud, either in IBM watson cloud, Her
 
 ## Learning material
 
-i received an email containing the pre
+I received an email containing the pre
 
 https://technocolabs-internship.gitbook.io/internship-prerequisites-learning-resources/
 
