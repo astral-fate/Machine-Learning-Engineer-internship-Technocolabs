@@ -44,7 +44,14 @@ the data of the customers, then they apply these findings into their web and mob
 
 Two mini projects <br>
 
+
+### First project: BigMart Prediction Model
+
 https://shahyaseen71.gitbook.io/technocolabs-mini-project/
+
+### Second Project: Bandora Data Preprocessing and Encoding
+
+https://technocollabs.gitbook.io/bondora-statistics/
 
 ### Data scraping
 There will be data scraping from different sources, using ADE which stands for Automated Data Extraction. It is a process or technique that involves using software or other automated means to extract data from a variety of sources, such as websites, documents, or databases. Automated data extraction can be used to quickly and accurately gather large amounts of data, which can then be used for a variety of purposes, such as data analysis, data visualization, or machine learning.
