@@ -53,6 +53,38 @@ https://shahyaseen71.gitbook.io/technocolabs-mini-project/
 
 https://technocollabs.gitbook.io/bondora-statistics/
 
+### Third Project/ EDA analysis 
+
+Tasks: EDA(Exploratory Data Analysis):
+
+1. Perform Data Exploration.
+
+2. Data Visualization and Manipulation.
+
+3. Perform EDA on the file separately.
+
+
+You need to perform EDA (Exploratory Data Analysis) on the available preprocessed datasets mentioned in the last Meeting.
+
+.
+
+Submission Date: 05th February 10:00 PM IST.
+
+Submit your task by creating a pull request into the project repository.
+
+
+Required  Materials  for the task:
+
+1. https://www.analyticsvidhya.com/blog/2021/08/how-to-perform-exploratory-data-analysis-a-guide-for-beginners/
+
+
+2. https://towardsdatascience.com/exploratory-data-analysis-dcb5e7189c4e
+
+
+3. https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec
+
+
+
 ### Data scraping
 There will be data scraping from different sources, using ADE which stands for Automated Data Extraction. It is a process or technique that involves using software or other automated means to extract data from a variety of sources, such as websites, documents, or databases. Automated data extraction can be used to quickly and accurately gather large amounts of data, which can then be used for a variety of purposes, such as data analysis, data visualization, or machine learning.
 
