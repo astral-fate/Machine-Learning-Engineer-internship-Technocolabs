@@ -42,20 +42,27 @@ the data of the customers, then they apply these findings into their web and mob
 
 ## Internship tasks
 
+| Task         | Description|
+| :-------------: | :-------------: |
+| BigMart Prediction Model | https://shahyaseen71.gitbook.io/technocolabs-mini-project/ |
+| Bandora Data Preprocessing and Encoding | https://technocollabs.gitbook.io/bondora-statistics/ |
+| EDA(Exploratory Data Analysis) | Whether the product is low fat or not|
+
+
 Two mini projects <br>
 
 
-### First project: BigMart Prediction Model
+### First project: 
 
-https://shahyaseen71.gitbook.io/technocolabs-mini-project/
 
-### Second Project: Bandora Data Preprocessing and Encoding
 
-https://technocollabs.gitbook.io/bondora-statistics/
+### Second Project: 
+
+
 
 ### Third Project/ EDA analysis 
 
-Tasks: EDA(Exploratory Data Analysis):
+Tasks: :
 
 1. Perform Data Exploration.
 
