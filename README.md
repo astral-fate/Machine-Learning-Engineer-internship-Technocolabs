@@ -42,64 +42,15 @@ the data of the customers, then they apply these findings into their web and mob
 
 ## Internship tasks
 
-| Task         | Description|
-| :-------------: | :-------------: |
-| BigMart Prediction Model | https://shahyaseen71.gitbook.io/technocolabs-mini-project/ |
-| Bandora Data Preprocessing and Encoding | https://technocollabs.gitbook.io/bondora-statistics/ |
-| EDA(Exploratory Data Analysis) | Whether the product is low fat or not|
 
-
-Two mini projects <br>
-
-
-### First project: 
-
-
-
-### Second Project: 
-
-
-
-### Third Project/ EDA analysis 
-
-Tasks: :
-
-1. Perform Data Exploration.
-
-2. Data Visualization and Manipulation.
-
-3. Perform EDA on the file separately.
-
-
-You need to perform EDA (Exploratory Data Analysis) on the available preprocessed datasets mentioned in the last Meeting.
-
-.
-
-Submission Date: 05th February 10:00 PM IST.
-
-Submit your task by creating a pull request into the project repository.
-
-
-Required  Materials  for the task:
-
-1. https://www.analyticsvidhya.com/blog/2021/08/how-to-perform-exploratory-data-analysis-a-guide-for-beginners/
-
-
-2. https://towardsdatascience.com/exploratory-data-analysis-dcb5e7189c4e
-
-
-3. https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec
-
-
-
-### Data scraping
+#### Data scraping
 There will be data scraping from different sources, using ADE which stands for Automated Data Extraction. It is a process or technique that involves using software or other automated means to extract data from a variety of sources, such as websites, documents, or databases. Automated data extraction can be used to quickly and accurately gather large amounts of data, which can then be used for a variety of purposes, such as data analysis, data visualization, or machine learning.
 
 
-### Data processing 
+#### Data processing 
 Data cleaning, data mantaining
 
-### Descriptive analysis 
+#### Descriptive analysis 
 Create categorcal and labels, encoding data.
 
 ### Data modeling
@@ -109,13 +60,32 @@ Based on the problem statment, we choose the data modeling:
 3. Clusturing
 Based on the highest accuracy, we will stick with the data modeling 
 
-### Deploy the data
+#### Deploy the data
 
 After that we will deploy the data in the cloud, either in IBM watson cloud, Herouko, or Robust
+
+| Task         | Description|
+| :-------------: | :-------------: |
+| BigMart Prediction Model | https://shahyaseen71.gitbook.io/technocolabs-mini-project/ |
+| Bandora Data Preprocessing and Encoding | https://technocollabs.gitbook.io/bondora-statistics/ |
+| EDA(Exploratory Data Analysis) | Whether the product is low fat or not|
+
+
+
+
+
 
 ## Learning material
 
 I received an email containing the pre
 
 https://technocolabs-internship.gitbook.io/internship-prerequisites-learning-resources/
+
+https://www.analyticsvidhya.com/blog/2021/08/how-to-perform-exploratory-data-analysis-a-guide-for-beginners/
+
+
+ https://towardsdatascience.com/exploratory-data-analysis-dcb5e7189c4e
+
+
+ https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec
 
