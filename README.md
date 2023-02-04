@@ -53,7 +53,7 @@ Data cleaning, data mantaining
 #### Descriptive analysis 
 Create categorcal and labels, encoding data.
 
-### Data modeling
+#### Data modeling
 Based on the problem statment, we choose the data modeling:
 1. Reggrition
 2. Classification 
