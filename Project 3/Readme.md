@@ -23,7 +23,6 @@ The main purposes of this analysis are to summarize the characteristics of varia
 
 
 ## Modeling
-#### ل##
 
 
 This project is a collaboration between our team that worked on developing a machine learning model using Gradient Boosting and VSM (Vector Space Model). We aimed to achieve the highest accuracy in our model by comparing our data and performing different EDA (Exploratory Data Analysis) techniques on our target variable.
