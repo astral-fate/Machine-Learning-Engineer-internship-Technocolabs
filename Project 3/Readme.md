@@ -8,7 +8,7 @@
 2. [Exploratory data analysis](#Exploratory-data-analysis)
 3. [Features engineering](#Features-engineering)
 4. [Modeling](#Modeling)
-5. [Model Pipeline](#Model Pipeline)
+5. [Model Pipeline](#Model-Pipeline)
 
 The main purposes of this analysis are to summarize the characteristics of variables that can affect the loan status and to get some ideas about the relationships among variables.
 
