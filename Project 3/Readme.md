@@ -1,6 +1,29 @@
 
 # Project-Bondora-Financial-risk-modelling-of-European-P2P-lending-platform
+
+
+## Table of content
+
+1. [Problem Statment](#Problem-Statment)
+2. [Exploratory data analysis](#Exploratory-data-analysis)
+3. [Features engineering](#Features-engineering)
+4. [Modeling](#Modeling)
+5. [Model Pipeline](#Model Pipeline)
+
 The main purposes of this analysis are to summarize the characteristics of variables that can affect the loan status and to get some ideas about the relationships among variables.
+
+
+
+
+## Problem Statment
+
+## Exploratory data analysis
+
+## Features engineering
+
+
+## Modeling
+#### ل##
 
 
 This project is a collaboration between our team that worked on developing a machine learning model using Gradient Boosting and VSM (Vector Space Model). We aimed to achieve the highest accuracy in our model by comparing our data and performing different EDA (Exploratory Data Analysis) techniques on our target variable.
