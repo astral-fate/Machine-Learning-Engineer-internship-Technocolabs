@@ -55,7 +55,7 @@ We can divide the 'LoanDuration' column into six categories based on the duratio
 
 We will create a new column 'LoanDurationCategory' to store the categorical values of the 'LoanDuration' column based on the above categories. <br>
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/63984422/222443439-5ef05567-d24d-467b-82ec-14d137114941.png">
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/63984422/222452480-e7bda5fa-43c1-4a51-931c-bb4ed6929be9.png">
 
 
 #### Amount
