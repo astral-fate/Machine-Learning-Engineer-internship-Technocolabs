@@ -44,12 +44,12 @@ The 'LoanDuration' column in a dataset contains the duration of loans in months,
 <b> Approach: </b> <br>
 We can divide the 'LoanDuration' column into six categories based on the duration of the loan in years:<br> 
 
-Less than 1 year (1-11 months) <br>
-1 year (12-23 months)<br>
-2 years (24-35 months)<br>
-3 years (36-47 months)<br>
-4 years (48-59 months)<br>
-5 years or more (60+ months) <br>
+- Less than 1 year (1-11 months) <br>
+- 1 year (12-23 months)<br>
+- 2 years (24-35 months)<br>
+- 3 years (36-47 months)<br>
+- 4 years (48-59 months)<br>
+- 5 years or more (60+ months) <br>
 We will create a new column 'LoanDurationCategory' to store the categorical values of the 'LoanDuration' column based on the above categories. <br>
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/63984422/222443439-5ef05567-d24d-467b-82ec-14d137114941.png">
