@@ -65,11 +65,11 @@ To create the three target variables for feature engineering, we will follow the
 
 #### EMI
 
-EMI: We will use the formula <br>
-EMI = P * r * (1+r)^n/((1+r)^n-1), <br>
+<b> EMI: We will use the formula <br> </b>
+<b> EMI = P * r * (1+r)^n/((1+r)^n-1), </b> <br>
 where P is the loan amount <br>
-r is the monthly interest rate <br>
-n is the loan tenure in months. <br>
+- r is the monthly interest rate <br>
+- n is the loan tenure in months. <br>
 We will use the provided data for loan amount, interest rate, and loan duration to calculate the EMI for each borrower.
 
 ### Eligible Loan Amount (ELA)
