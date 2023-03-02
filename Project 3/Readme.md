@@ -70,6 +70,7 @@ To create the three target variables for feature engineering, we will follow the
 where P is the loan amount <br>
 - r is the monthly interest rate <br>
 - n is the loan tenure in months. <br>
+
 We will use the provided data for loan amount, interest rate, and loan duration to calculate the EMI for each borrower.
 
 ### Eligible Loan Amount (ELA)
@@ -77,6 +78,8 @@ We will use the provided data for loan amount, interest rate, and loan duration 
 Eligible Loan Amount (ELA): We will calculate the ELA using the borrower's assets and liabilities. 
 The formula is <br>
 <b> ELA = Assets - Liabilities, <br> </b>
+
+
 where assets represent the borrower's income and liabilities represent their total debts. We will use the provided data on borrower income and total liabilities to calculate ELA. If the ELA is less than 30% of the borrower's total income minus their total liabilities, we will only allow the ELA calculated from the formula. Otherwise, we will allow the borrower to borrow only the amount calculated from the 30% threshold calculation.
 
 
@@ -84,6 +87,7 @@ where assets represent the borrower's income and liabilities represent their tot
 
 We will calculate the ROI based on the amount borrowed and the interest rate. The formula for ROI is <br>
 <b> ROI = investment gain / investment base. <br> </b>
+
 We will use the amount borrowed and the interest rate to calculate the ROI for each loan. We were not provided with enough information on how to determine the borrower's preferred ROI, so we will use the calculated ROI as a proxy
 
 
