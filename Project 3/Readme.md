@@ -21,6 +21,23 @@ The main purposes of this analysis are to summarize the characteristics of varia
 
 ## Features engineering
 
+
+To create the three target variables for feature engineering, we will follow the provided formula for calculating EMI, and use the borrower's assets and liabilities to calculate their eligible loan amount.
+
+### EMI
+
+EMI: We will use the formula EMI = P * r * (1+r)^n/((1+r)^n-1), where P is the loan amount, r is the monthly interest rate, and n is the loan tenure in months. We will use the provided data for loan amount, interest rate, and loan duration to calculate the EMI for each borrower.
+
+### Eligible Loan Amount (ELA)
+
+Eligible Loan Amount (ELA): We will calculate the ELA using the borrower's assets and liabilities. The formula is ELA = Assets - Liabilities, where assets represent the borrower's income and liabilities represent their total debts. We will use the provided data on borrower income and total liabilities to calculate ELA. If the ELA is less than 30% of the borrower's total income minus their total liabilities, we will only allow the ELA calculated from the formula. Otherwise, we will allow the borrower to borrow only the amount calculated from the 30% threshold calculation.
+
+
+### Rate Of Interest
+
+Preferred ROI: We will calculate the ROI based on the amount borrowed and the interest rate. The formula for ROI is ROI = investment gain / investment base. We will use the amount borrowed and the interest rate to calculate the ROI for each loan. We were not provided with enough information on how to determine the borrower's preferred ROI, so we will use the calculated ROI as a proxy
+
+
 ### Employee Status
 
 ### Use of loan
