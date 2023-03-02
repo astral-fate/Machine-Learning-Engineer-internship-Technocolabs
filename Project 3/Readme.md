@@ -21,6 +21,26 @@ The main purposes of this analysis are to summarize the characteristics of varia
 
 ## Features engineering
 
+FreeCash
+
+PrincipalWriteoffs <br>
+
+PrincipalDebtServicingCost <br>
+
+InterestAndPenaltyWriteOffs<br>
+
+InterestAndPenaltyDebtServicingCost
+<br>
+BidPrinciple<br>
+
+PurchasePrice<br>
+
+Totallncome<br>
+
+LoanDuration<br>
+
+"Amount"
+
 
 To create the three target variables for feature engineering, we will follow the provided formula for calculating EMI, and use the borrower's assets and liabilities to calculate their eligible loan amount.
 
