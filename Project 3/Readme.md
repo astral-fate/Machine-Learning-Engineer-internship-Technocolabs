@@ -37,7 +37,7 @@ PurchasePrice<br>
 
 IncomeTotal<br>
 
-LoanDuration<br>
+<b> LoanDuration </b>  <br>
 
 The 'LoanDuration' column in a dataset contains the duration of loans in months, and it has numerical values ranging from 1 to 60. In order to make the data more interpretable and useful for machine learning models, it can be converted into categorical data based on the loan duration in years. <br>
 
