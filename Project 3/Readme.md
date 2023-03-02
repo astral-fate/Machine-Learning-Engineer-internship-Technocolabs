@@ -76,7 +76,7 @@ We will use the provided data for loan amount, interest rate, and loan duration 
 
 Eligible Loan Amount (ELA): We will calculate the ELA using the borrower's assets and liabilities. 
 The formula is <br>
-ELA = Assets - Liabilities, <br>
+<b> ELA = Assets - Liabilities, <br> </b>
 where assets represent the borrower's income and liabilities represent their total debts. We will use the provided data on borrower income and total liabilities to calculate ELA. If the ELA is less than 30% of the borrower's total income minus their total liabilities, we will only allow the ELA calculated from the formula. Otherwise, we will allow the borrower to borrow only the amount calculated from the 30% threshold calculation.
 
 
