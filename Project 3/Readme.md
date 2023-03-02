@@ -21,6 +21,14 @@ The main purposes of this analysis are to summarize the characteristics of varia
 
 ## Features engineering
 
+### Employee Status
+
+### Use of loan
+
+### Gender
+
+### Percentage of risk 
+
 We have developed a reliable algorithm for calculating the financial risk of borrowers. This calculation involves using a formula that takes into account the borrower's salary and liabilities, particularly the percentage of their income dedicated to paying off existing debts.
 To create the target variable, we focus on the borrower's remaining salary after deducting all their liabilities. From this remaining salary, we then factor in the borrower's monthly loan payments (EMI) to determine their monthly savings. This savings amount serves as the basis for assessing the borrower's financial risk.
 Our approach involves assigning a risk score based on the borrower's savings relative to their EMI. For example, if a borrower has a savings amount that exceeds 50% of their EMI, their risk score will be low. Conversely, if their savings amount is less than 20% of their EMI, their risk score will be high. By using this system, we can provide a reliable and accurate financial risk assessment for borrowers.
