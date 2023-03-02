@@ -37,11 +37,12 @@ PurchasePrice<br>
 
 IncomeTotal<br>
 
-<b> LoanDuration </b>  <br>
+####  LoanDuration <br>
 
 The 'LoanDuration' column in a dataset contains the duration of loans in months, and it has numerical values ranging from 1 to 60. In order to make the data more interpretable and useful for machine learning models, it can be converted into categorical data based on the loan duration in years. <br>
 
-<b> Approach: </b> <br>
+#### Approach: 
+
 We can divide the 'LoanDuration' column into six categories based on the duration of the loan in years:<br> 
 
 - Less than 1 year (1-11 months) <br>
@@ -57,12 +58,12 @@ We will create a new column 'LoanDurationCategory' to store the categorical valu
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/63984422/222443439-5ef05567-d24d-467b-82ec-14d137114941.png">
 
 
-"Amount"
+#### Amount
 
 
 To create the three target variables for feature engineering, we will follow the provided formula for calculating EMI, and use the borrower's assets and liabilities to calculate their eligible loan amount.
 
-### EMI
+#### EMI
 
 EMI: We will use the formula EMI = P * r * (1+r)^n/((1+r)^n-1), where P is the loan amount, r is the monthly interest rate, and n is the loan tenure in months. We will use the provided data for loan amount, interest rate, and loan duration to calculate the EMI for each borrower.
 
