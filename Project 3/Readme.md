@@ -29,13 +29,12 @@ PrincipalDebtServicingCost <br>
 
 InterestAndPenaltyWriteOffs<br>
 
-InterestAndPenaltyDebtServicingCost
-<br>
+InterestAndPenaltyDebtServicingCost <br>
 BidPrinciple<br>
 
 PurchasePrice<br>
 
-Totallncome<br>
+IncomeTotal<br>
 
 LoanDuration<br>
 
