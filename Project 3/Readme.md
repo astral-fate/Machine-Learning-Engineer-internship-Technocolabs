@@ -63,13 +63,7 @@ We will create a new column 'LoanDurationCategory' to store the categorical valu
 
 To create the three target variables for feature engineering, we will follow the provided formula for calculating EMI, and use the borrower's assets and liabilities to calculate their eligible loan amount.
 
-#### EMI
 
-<b> EMI: We will use the formula <br> </b>
-<b> EMI = P * r * (1+r)^n/((1+r)^n-1), </b> <br>
-where P is the loan amount <br>
-- r is the monthly interest rate <br>
-- n is the loan tenure in months. <br>
 
 We will use the provided data for loan amount, interest rate, and loan duration to calculate the EMI for each borrower.
 
@@ -78,6 +72,13 @@ We will use the provided data for loan amount, interest rate, and loan duration 
 Eligible Loan Amount (ELA): We will calculate the ELA using the borrower's assets and liabilities. 
 The formula is <br>
 <b> ELA = Assets - Liabilities, <br> </b>
+
+
+<b> EMI: We will use the formula <br> </b>
+<b> EMI = P * r * (1+r)^n/((1+r)^n-1), </b> <br>
+where P is the loan amount <br>
+- r is the monthly interest rate <br>
+- n is the loan tenure in months. <br>
 
 
 where assets represent the borrower's income and liabilities represent their total debts. We will use the provided data on borrower income and total liabilities to calculate ELA. If the ELA is less than 30% of the borrower's total income minus their total liabilities, we will only allow the ELA calculated from the formula. Otherwise, we will allow the borrower to borrow only the amount calculated from the 30% threshold calculation.
