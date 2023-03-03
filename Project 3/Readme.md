@@ -99,9 +99,9 @@ ROI = investment Gain / Investment Base
 ROI= Amount lended * interest/100 
 
 - <b> InterestAndPenaltyDebtServicingCost </b> Service cost related to the recovery of the debt based on the interest and penalties of the investment.
-- <b>InterestAndPenalty₩riteOffs </b> Interest that was written off on the investment 
-- <b> PrincipalDebtServicingCost </b> Service cost related to the recovery of the debt based on the principal of the investment.
-- <b> PrincipalWriteoffs </b> Principal that was written off on the investment.
+- <b>InterestAndPenaltyWriteOffs </b> Interest that was written off on the investment 
+- <b> PrincipalDebtServicingCost </b> Service cost related to the recovery of the debt based on the principal of the investment.
+- <b> PrincipalWriteoffs </b> Principal that was written off on the investment.
 
 
 
