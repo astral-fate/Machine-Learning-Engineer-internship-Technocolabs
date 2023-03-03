@@ -98,10 +98,10 @@ We werent able to determine the procedure of handling Risk related to loan in or
 ROI = investment Gain / Investment Base
 ROI= Amount lended * interest/100 
 
-- <b> InterestAndPenaltyDebtServicingCost </b> Service cost related to the recovery of the debt based on the interest and penalties of the investment.
-- <b>InterestAndPenaltyWriteOffs </b> Interest that was written off on the investment 
-- <b> PrincipalDebtServicingCost </b> Service cost related to the recovery of the debt based on the principal of the investment.
-- <b> PrincipalWriteoffs </b> Principal that was written off on the investment.
+- InterestAndPenaltyDebtServicingCost Service cost related to the recovery of the debt based on the interest and penalties of the investment.
+- InterestAndPenaltyWriteOffs Interest that was written off on the investment 
+- PrincipalDebtServicingCost Service cost related to the recovery of the debt based on the principal of the investment.
+- PrincipalWriteoffs Principal that was written off on the investment.
 
 
 
