@@ -58,7 +58,7 @@ We will create a new column 'LoanDurationCategory' to store the categorical valu
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/63984422/222452480-e7bda5fa-43c1-4a51-931c-bb4ed6929be9.png">
 
 
-#### Equated Monthly Installment (EMI)
+### Equated Monthly Installment (EMI)
 
 <b> EMI: We will use the formula <br> </b>
 <b> EMI = P * r * (1+r)^n/((1+r)^n-1), </b> <br>
