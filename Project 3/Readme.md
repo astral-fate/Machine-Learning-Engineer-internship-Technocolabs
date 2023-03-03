@@ -89,7 +89,21 @@ where assets represent the borrower's income and liabilities represent their tot
 We will calculate the ROI based on the amount borrowed and the interest rate. The formula for ROI is <br>
 <b> ROI = investment gain / investment base. <br> </b>
 
-We will use the amount borrowed and the interest rate to calculate the ROI for each loan. We were not provided with enough information on how to determine the borrower's preferred ROI, so we will use the calculated ROI as a proxy
+We will use the amount borrowed and the interest rate to calculate the ROI for each loan. We were not provided with enough information on how to determine the borrower's preferred ROI, so we will use the calculated ROI as a proxy.
+
+
+We werent able to determine the procedure of handling Risk related to loan in order to determine Preferred RO1 <br>
+- In order to complete the task in hand and complete it, we'll calculate ROI instead. 
+
+ROI = investment Gain / Investment Base
+ROI= Amount lended * interest/100 
+
+- <b> InterestAndPenaltyDebtServicingCost </b> Service cost related to the recovery of the debt based on the interest and penalties of the
+investment.
+-  <b>InterestAndPenalty₩riteOffs </b> Interest that was written off on the investment 
+- <b> PrincipalDebtServicingCost </b> Service cost related to the recovery of the debt based on the principal of the investment.
+- <b> PrincipalWriteoffs </b> Principal that was written off on the investment.
+
 
 
 ### Employee Status
