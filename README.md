@@ -69,6 +69,7 @@ After that we will deploy the data in the cloud, either in IBM watson cloud, Her
 | BigMart Prediction Model | https://shahyaseen71.gitbook.io/technocolabs-mini-project/ |
 | Bandora Data Preprocessing and Encoding | https://technocollabs.gitbook.io/bondora-statistics/ |
 | EDA(Exploratory Data Analysis) | Whether the product is low fat or not|
+| Model Pipeline          |https://github.com/astral-fate/Machine-Learning-Engineer-internship-Technocolabs/blob/main/Project%203/Pipeline/README.md |
 
 
 
